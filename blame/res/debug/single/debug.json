@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\menu_quiz.xml.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\menu\\quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow_left.png.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\drawable-xxhdpi\\arrow_left.png"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_right.png.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow_left.png.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\drawable-mdpi\\arrow_left.png"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow_right.png.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\drawable-xxhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow_right.png.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\drawable-mdpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow_left.png.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\drawable-xhdpi\\arrow_left.png"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\layout_activity_quiz_fragment.xml.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\layout\\activity_quiz_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow_right.png.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\drawable-xhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\layout_activity_quiz.xml.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_left.png.flat",
+        "source": "C:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\src\\main\\res\\drawable-hdpi\\arrow_left.png"
+    }
+]

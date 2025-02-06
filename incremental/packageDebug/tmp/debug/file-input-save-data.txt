@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Nov 06 04:43:10 CST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\dave-\\AndroidStudioProjects\\GeoQuiz\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
